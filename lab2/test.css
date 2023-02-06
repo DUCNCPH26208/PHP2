@@ -1,0 +1,22 @@
+.ten{
+    text-align: center;
+}
+.ten a{
+    color: red;
+    font-size: 15px;
+    text-decoration: none;
+}
+.ten a:hover{
+    color: blue;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.nen{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(188, 120, 23);
+    border-radius: 30px;
+}
+.nen:hover{
+    background-color: blue;
+}
